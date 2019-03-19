@@ -7,4 +7,4 @@ Steps:
 3. Make any font specifications in the "Character" panel in After Effects.
 4. Select the composition that contains the video file.
 5. Go to File > Scripts > Run Script File and select this file.
-6. Follow the directions, which will prompt you to select your caption file. 
+6. Follow the directions, which will prompt you to select your caption file. If you select an SRT file, it will align the captions according to the timecodes. Otherwise, it will give each caption the same average duration.
